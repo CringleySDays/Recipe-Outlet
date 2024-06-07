@@ -11,4 +11,4 @@ I'd love to have you on board- however, I want this project to be a learning exp
 This project is not to be run by anyone other than myself,  it is a learning experience. Additionally, some aspects of the project are not included which makes it difficult to run Recipe Outlet. I hope you understand!
 
 --------
-Happy Coding!
+Happy Cooking ❤️!
