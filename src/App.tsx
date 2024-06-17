@@ -24,7 +24,7 @@ export function App() {
                 Recipe Outlet
             </div>
             
-            <div className="flex items-center justify-center">
+            <div className="flex items-center justify-center py-10">
                 <p>
                     Discover, share and create authentic recipes with Recipe Outlet, a delightful 
                     experience watiting to be discovered.
@@ -35,21 +35,27 @@ export function App() {
                 <img className="w-32" src="src/assets/Stock-Image.jpg" alt="Stock"/>
             </div>
 
-            <div>
-                <div className="flex justify-center item-center">
+            <div className="py-10">
+                <div className="flex justify-center pb-16 item-center">
                     <img className="w-32 h-auto" src="src/assets/Stock-Image.jpg" alt="Stock"/>
                     <p className="w-1/3 py-10">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum nobis praesentium nesciunt fugiat cupiditate modi sapiente at ratione. Vitae mollitia aliquid officia consectetur adipisci rem sed voluptate repudiandae accusamus natus.
                     </p>
                 </div>
 
-                <div className="flex items-center justify-center">
+                <div className="flex justify-center pb-16 item-center">
                     <p className="w-1/3 py-10">
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum nobis praesentium nesciunt fugiat cupiditate modi sapiente at ratione. Vitae mollitia aliquid officia consectetur adipisci rem sed voluptate repudiandae accusamus natus.
                     </p>
                     <img className="w-32 h-auto" src="src/assets/Stock-Image.jpg" alt="Stock"/>
                 </div>
-                
+
+                <div className="flex items-center justify-center">
+                    <img className="w-32 h-auto" src="src/assets/Stock-Image.jpg" alt="Stock"/>
+                    <p className="w-1/3 py-10">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum nobis praesentium nesciunt fugiat cupiditate modi sapiente at ratione. Vitae mollitia aliquid officia consectetur adipisci rem sed voluptate repudiandae accusamus natus.
+                    </p>
+                </div>
                 
             </div>
         
